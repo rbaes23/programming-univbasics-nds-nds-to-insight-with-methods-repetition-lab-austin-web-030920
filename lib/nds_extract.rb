@@ -40,7 +40,7 @@ def total_gross(source)
   director_names = list_of_directors(source)
   i = 0
   while i < source.length do
-    
+    director_g
 end
 
 # source[list_of_directors][]
