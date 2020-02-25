@@ -36,8 +36,11 @@ def list_of_directors(source)
 end
 
 def total_gross(source)
-  directors_totals_method = directors_totals(source)
-  
+  director_gross = directors_totals(source)
+  director_names = list_of_directors(source)
+  i = 0
+  while i < source.length do
+    
 end
 
 # source[list_of_directors][]
